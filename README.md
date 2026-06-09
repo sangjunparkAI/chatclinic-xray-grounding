@@ -213,8 +213,6 @@ print(result["annotated_image_path"]) # 저장된 이미지 경로
 [MIMIC-CXR-JPG v2.1.0](https://physionet.org/content/mimic-cxr-jpg/2.1.0/) — 흉부 X-ray 공개 데이터셋  
 CheXpert 레이블 기준 14개 카테고리: Atelectasis, Cardiomegaly, Consolidation, Edema, Enlarged Cardiomediastinum, Fracture, Lung Lesion, Lung Opacity, No Finding, Pleural Effusion, Pleural Other, Pneumonia, Pneumothorax, Support Devices
 
-> 본 프로젝트는 학습 목적으로 5개 샘플만 사용합니다.
-
 ---
 
 ## ChatClinic Plugin Spec
