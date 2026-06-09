@@ -1,8 +1,3 @@
-# ChatClinic X-ray Visual Grounding Tool
-
-GPT-4o 기반 흉부 X-ray 이상 탐지 및 Visual Grounding 플러그인입니다.  
-[ChatClinic-Multimodal](https://github.com/bispl-create/chatclinic-multimodal) 플랫폼에 제출하는 플러그인 형태로 구현되어 있으며, KAIST AI619 수업 과제로 개발되었습니다.
-
 ---
 
 ## Overview
